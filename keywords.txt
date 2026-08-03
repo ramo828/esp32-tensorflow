@@ -1,0 +1,11 @@
+MicroInterpreter	KEYWORD1
+Model	KEYWORD1
+MicroMutableOpResolver	KEYWORD1
+ErrorReporter	KEYWORD1
+TfLiteTensor	KEYWORD1
+AllocateTensors	KEYWORD2
+Invoke	KEYWORD2
+input	KEYWORD2
+output	KEYWORD2
+GetModel	KEYWORD2
+AddBuiltin	KEYWORD2
